@@ -2,9 +2,8 @@
 
 namespace Database\Seeders;
 
-use Nnjeim\World\Actions\SeedAction;
-
 use Illuminate\Database\Seeder;
+use Nnjeim\World\Actions\SeedAction;
 
 class WorldSeeder extends Seeder
 {

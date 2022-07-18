@@ -12,7 +12,7 @@
 </head>
 
 <body>
-    @dd(asset($file), asset('pdf-assets/pdf/book2.pdf'))
+    {{-- @dd(asset($file), asset('pdf-assets/pdf/book2.pdf')) --}}
     <input type="hidden" id="url" value="{{ asset($file) }}">
     <div id="container">
         <p>Real 3D Flipbook has lightbox feature - book can be displayed in the same page with lightbox effect.</p>

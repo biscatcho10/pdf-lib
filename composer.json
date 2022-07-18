@@ -13,7 +13,10 @@
         "laravel/sanctum": "^2.11",
         "laravel/tinker": "^2.5",
         "livewire/livewire": "^2.5",
-        "nnjeim/world": "^1.0"
+        "macsidigital/laravel-zoom": "^5.0",
+        "nnjeim/world": "^1.1",
+        "yajra/laravel-datatables": "1.5",
+        "yajra/laravel-datatables-oracle": "~9.0"
     },
     "require-dev": {
         "facade/ignition": "^2.5",
